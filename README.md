@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi Everyone!!! 👋
 
+
+Hi,  my name is Rama Fajar Fadhillah. I am a student who is interested in linux, backend, and cyber security.
+<hr/>
 
 
 ### Temui saya di

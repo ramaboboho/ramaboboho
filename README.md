@@ -1,10 +1,9 @@
 ### Hi Everyone!!! 👋
 
-
-Hi,  my name is Rama Fajar Fadhillah. I am a student who is interested in linux, backend, and cyber security.
+<p>Hi,  my name is Rama Fajar Fadhillah. I am a student who is interested in linux, backend, and cyber security.</p>
 <hr/>
 
-<h3>About Me</h3>
+<h3> 👨🏻‍💻 About Me</h3>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,7 +14,7 @@ Hi,  my name is Rama Fajar Fadhillah. I am a student who is interested in linux,
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### I use programming languages and tools
+<h3>🛠 Tech Stack</h3>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)

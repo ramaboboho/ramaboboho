@@ -25,7 +25,6 @@
    ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
    ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
    ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-   ![Github](http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF)
    ![Mysql](https://img.shields.io/badge/-Express.js-787878?style=flat)
 <hr/>
 

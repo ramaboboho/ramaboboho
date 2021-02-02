@@ -13,8 +13,7 @@
    - 📫 How to reach me: ...
    - 😄 Pronouns: ...
    - ⚡ Fun fact: ...
-  
-</hr>
+<hr/>
 <h3>🛠 Languange and Tools</h3>
 
    ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -28,7 +27,7 @@
 <hr/>
 
 <h3> 🤝🏻 Connect with Me </h3>
- | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/ramarff/) |
+
 
 
 

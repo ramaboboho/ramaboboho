@@ -27,6 +27,7 @@
    ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
    ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
    ![Mysql](https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF)
+   ![Linux](https://img.shields.io/badge/-linux-white?style=flat&logo=linux&logoColor=black)
 <hr/>
 
 <h3> 🤝🏻 Connect with Me </h3>
